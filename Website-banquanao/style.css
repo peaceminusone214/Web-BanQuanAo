@@ -49,7 +49,7 @@ Version:	1.0.0
 	padding-top: 25px;
 }
 .admin-menu__two {
-	border-top: 1px solid #6176FE16;
+	border-top: 1px solid #D19C9716;
 	padding-top: 26px;
 	padding-bottom: 40px;
 }
@@ -108,7 +108,7 @@ Version:	1.0.0
 }
 .menu-bar li:hover .menu-bar__name,
 .menu-bar li.active  .menu-bar__name{
-	color:#6176FE;
+	color:#D19C97;
 } 
 .menu-bar li.active-icon:before{
 	opacity:1;
@@ -121,7 +121,7 @@ Version:	1.0.0
 	font-weight: 400;
 	font-size: 18px;
 	line-height: 22px;
-	color: #6176FE;
+	color: #D19C97;
 	padding: 16px 0px;
 	/* display: inline-block; */
 	width: 100%;
@@ -151,7 +151,7 @@ Version:	1.0.0
 	color: #878F9A !important;
 }
 .menu-bar li ul li a:hover span,.menu-bar li ul li a:hover{
-	color:#6176FE !important
+	color:#D19C97 !important
 }
 .sherah__dropdown ul li a i {
 	margin-right: 5px;
@@ -167,7 +167,7 @@ Version:	1.0.0
 }
 .menu-bar li .sherah__dropdown {
 	padding-left: 15px;
-	border-left: 1px solid #6176FE16;
+	border-left: 1px solid #D19C9716;
 	margin-left: 40px;
 }
 .menu-bar li.show-dropdown ul {
@@ -210,7 +210,7 @@ Version:	1.0.0
 }
 .menu-bar li .sherah-menu-icon .sherah-svg-icon,
 .menu-bar li:hover .collapsed  .sherah-menu-icon .sherah-svg-icon{
-	color:#6176FE;
+	color:#D19C97;
 }
 .sherah__dropdown ul li a {
 	display: ;
@@ -250,7 +250,7 @@ Version:	1.0.0
 }
 .logout-button .sherah-btn {
 	padding: 7px 14px;
-	background: #6176FE;
+	background: #D19C97;
 	color: #fff;
 	display: flex;
 	gap: 10px;
@@ -260,7 +260,7 @@ Version:	1.0.0
 	align-items: center;
 }
 .logo-button__icon svg {
-	fill: #6176FE;
+	fill: #D19C97;
 }
 
 .sherah-smenu.sherah-close .logo-button__icon {
@@ -268,7 +268,7 @@ Version:	1.0.0
 	width: 44px;
 	height: 44px;
 	line-height: 44px;
-	background: #6176FE;
+	background: #D19C97;
 }
 .sherah-smenu.sherah-close .logo-button__icon svg{
 	fill: #fff;
@@ -382,7 +382,7 @@ Version:	1.0.0
 	font-size: 16px;
   }
   .sherah-language__list a:hover {
-		color: #6176FE;
+		color: #D19C97;
 	}
   .sherah-language a {
 	color: #2F3032;
@@ -466,7 +466,7 @@ Version:	1.0.0
 
 .sherah-header__amount {
 	display: flex;
-	background: #6176FE;
+	background: #D19C97;
 	color: #fff;
 	border-radius: 58px;
 	align-items: center;
@@ -697,7 +697,7 @@ Version:	1.0.0
 	text-align: center;
 	padding: 22px 0;
 	font-size: 18px;
-	color: #6176FE !important;
+	color: #D19C97 !important;
 	font-weight: 500;
 }
 .sherah-dropdown-card-amount {
@@ -716,7 +716,7 @@ Version:	1.0.0
 }
 .sherah-dropdown-card-name:hover,
 .sherah-dropdown-card-name a:hover {
-	color: #6176FE;
+	color: #D19C97;
 }
 /* Notification Hover */
 .sherah-header__dropmenu:hover .sherah-dropdown-card {
@@ -817,7 +817,7 @@ Version:	1.0.0
   font-size: 18px;
 }
 .view-wallet__btn.view-trnsc a:hover {
-	color: #6176FE;
+	color: #D19C97;
 }
 .sherah-header__group .sherah-dropdown-card-name a {
 	font-weight: 400;
@@ -943,7 +943,7 @@ Version:	1.0.0
   position: absolute;
   right: -15px;
   top: -14px;
-  background: #6176FE;
+  background: #D19C97;
   width: 20px;
   height: 20px;
   line-height: 20px;
@@ -954,7 +954,7 @@ Version:	1.0.0
 }
 .all-notificaiton__inner .list-group-item:hover,
 .all-notificaiton__inner .list-group-item.active {
-  color: #6176FE;
+  color: #D19C97;
 }
 
 .sherah-notifications__title {
@@ -1003,7 +1003,7 @@ Version:	1.0.0
 	padding-right: 22px;
 }
 .sherah-header__dropdown--single {
-	border-right: 1px solid #6176FE16;
+	border-right: 1px solid #D19C9716;
 	padding-right: 20px;
 	margin-right: 20px;
 }
@@ -1346,7 +1346,7 @@ Version:	1.0.0
 .sherah-progress-list__color {
   width: 16px;
   height: 16px;
-  background: #6176FE;
+  background: #D19C97;
   position: relative;
   display: inline-block;
   border-radius: 100%;
@@ -1491,14 +1491,14 @@ Version:	1.0.0
   text-align: center;
   border-radius: 100%;
   font-size: 13px;
-  color: #6176FE;
+  color: #D19C97;
   text-align: center;
 }
 .sherah-sidebar__button-btn svg {
 	max-width: 16px;
 }
 .sherah-sidebar__button-btn.sherah-request_request {
-  background: #6176FE;
+  background: #D19C97;
   color: #fff;
 }
 .sherah-sidebar__creator img {
@@ -1606,7 +1606,7 @@ Version:	1.0.0
 }
 	
 	.nav-link:focus, .nav-link:hover {
-		color: #6176FE;
+		color: #D19C97;
 	}
 	
 	.close-icon {
@@ -1614,7 +1614,7 @@ Version:	1.0.0
 		min-width: 30px;
 		cursor: pointer;
 		position: relative;
-		background: #6176FE;
+		background: #D19C97;
 		width: 30px;
 		height: 30px;
 		line-height: 30px;
@@ -1629,7 +1629,7 @@ Version:	1.0.0
 		background: ;
 	  }
 	  .close-icon:hover {
-		background: #6176FE;
+		background: #D19C97;
 	  }
 	.sherah-smenu {
 		position: fixed;
@@ -1837,7 +1837,7 @@ Version:	1.0.0
 .sherah-current {
 	font-size: .875rem;
 	line-height: 1.25rem;
-	color: #6176FE;
+	color: #D19C97;
 }
 .charts-main__middle-text {
   	margin: 0;
@@ -1886,7 +1886,7 @@ Version:	1.0.0
 	background: #F2C94C;
 }
 .charts-main__middle.charts-main__middle--v2 .charts-main__middle-text.sherah-total__sales:before {
-	background: #6176FE;
+	background: #D19C97;
 }
 
 .charts-main__invest .charts-main__one {
@@ -2064,13 +2064,13 @@ Version:	1.0.0
 	font-size: 14px !important;
 	font-weight: 400;
 	border: none !important;
-	background-color: #6176FE !important;
+	background-color: #D19C97 !important;
 	border-radius: 4px !important;
 }
 .event-color::before {
 	content: "";
 	position: absolute !important;
-	border-top: 13px solid #6176FE;
+	border-top: 13px solid #D19C97;
 	border-left: 13px solid transparent;
 	border-right: 13px solid transparent;
 	bottom: -12px;
@@ -2124,7 +2124,7 @@ Version:	1.0.0
 	max-height: 315px;
 }
 .jvectormap-tip{
-	background-color: #6176FE;
+	background-color: #D19C97;
 	border: none;
 	color:#fff;
 }
@@ -2157,7 +2157,7 @@ Version:	1.0.0
   min-width: 28px;
   min-height: 28px;
   display: inline-block;
-  background: #6176FE;
+  background: #D19C97;
   border-radius: 100%;
   color: #fff;
   font-size: 12px;
@@ -2324,8 +2324,8 @@ Version:	1.0.0
 	line-height: 24px;
 }
 .sherah-chart__dropdown.sherah-chart__dropdown--bg svg {
-  color: #6176FE !important;
-  fill: #6176FE !important;
+  color: #D19C97 !important;
+  fill: #D19C97 !important;
 }
 .sherah-chart__dropdown.sherah-chart__dropdown--bg .sherah-sidebar_btn {
 	padding: 5px 10px;
@@ -2418,7 +2418,7 @@ Version:	1.0.0
 	position: absolute;
 	right: 12px;
 	top: 8px;
-	color: #6176FE;
+	color: #D19C97;
 	font-size: 19px;
 }
   .dataTables_filter input {
@@ -2566,14 +2566,14 @@ Version:	1.0.0
 }
 .dataTables_paginate .pagination a:hover,.sherah-pagination ul li a:hover,
 .dataTables_paginate .paginate_button.active a,.sherah-pagination ul li.active a{
-	background: #6176FE !important;
+	background: #D19C97 !important;
 	color: #fff !important;
 }
 
 .dataTables_paginate .paginate_button.page-item.previous a, 
 .dataTables_paginate .paginate_button.page-item.next a,
 .sherah-pagination ul .sherah-pagination__button a{
-	color: #6176FE !important;
+	color: #D19C97 !important;
 }
 .dataTables_paginate .paginate_button.page-item.previous a:hover,
 .dataTables_paginate .paginate_button.page-item.next a:hover,
@@ -2878,7 +2878,7 @@ Version:	1.0.0
 	font-weight: 400;
 }
 .sherah-product-sidebar__size a:hover{
-	color:#6176FE;
+	color:#D19C97;
 }
 #slider-range {
 	box-shadow: none;
@@ -2890,7 +2890,7 @@ Version:	1.0.0
 }
 .price-filter .ui-slider-range {
 	box-shadow: none;
-	background: #6176FE;
+	background: #D19C97;
 	border-radius: 0px;
 	border: none;
 }
@@ -2919,8 +2919,8 @@ Version:	1.0.0
 	color:#282828;
 }
 .price-filter .ui-slider-handle.ui-state-default.ui-corner-all {
-	background: #BFB5FF;
-	color: #BFB5FF;
+	background: #eac18d;
+	color: #eac18d;
 	cursor: pointer;
 }
 .price-filter .label-input input {
@@ -2991,8 +2991,8 @@ Version:	1.0.0
   border: none;
 }
 .sherah-product__nav .list-group-item:hover span,.sherah-product__nav .list-group-item.active span{
-  color: #6176FE;
-  border-bottom-color: #6176FE;
+  color: #D19C97;
+  border-bottom-color: #D19C97;
 }
 
 
@@ -3022,7 +3022,7 @@ Version:	1.0.0
 	border-radius: 4px;
   }
   .product-thumbs li a:hover,.product-thumbs li a.active {
-	border-color: #6176FE;
+	border-color: #D19C97;
   }
 .product-detail-body__title {
 	font-size: 28px;
@@ -3195,7 +3195,7 @@ Version:	1.0.0
 	border-radius: 4px;
   }
   .sherah-product-tabs__list a:hover,.sherah-product-tabs__list a.active {
-	background: #6176FE;
+	background: #D19C97;
 	color: #fff;
   } 
 
@@ -3299,7 +3299,7 @@ Version:	1.0.0
 }
 
 .btn-check:checked + .checkbox-group__single--label {
-	background: #BFB5FF;
+	background: #eac18d;
 	color: #1A1A1A;
 	border-color: transparent;
   }
@@ -3336,8 +3336,8 @@ Version:	1.0.0
 	fill: #5A5A5A;
   }
   .image-upload-group__single--upload:hover svg,.image-upload-group__single--upload:hover span {
-	fill: #6176FE;
-	color: #6176FE;
+	fill: #D19C97;
+	color: #D19C97;
   }
 
   @media only screen and (min-width: 0px) and (max-width: 1278px) {
@@ -3437,10 +3437,10 @@ Version:	1.0.0
   	border: 1px solid rgba(0, 0, 0, 0.1);
 }
 .sherah-header__form .search-btn {
-  	color: #6176FE;
+  	color: #D19C97;
 }
 .sherah-header__form .search-btn svg {
-	fill: #6176FE;
+	fill: #D19C97;
 }
 .sherah-chatbox__search {
   margin-bottom: 30px;
@@ -3592,7 +3592,7 @@ Version:	1.0.0
 	color: #878F9A;
 }
 .sherah-chatbox__btn a:hover{
-	color:#6176FE;
+	color:#D19C97;
 }
 .sherah-chatbox__imoji {
 	display: flex;
@@ -3602,7 +3602,7 @@ Version:	1.0.0
 	fill: #9AA2B1;
   }
   .sherah-chatbox__btn:hover svg {
-	fill: #6176FE;
+	fill: #D19C97;
   }
 .sherah-chatbox__incoming {
 }
@@ -3673,7 +3673,7 @@ Version:	1.0.0
 	border: none !important;
 }
 .sherah-chatbox__submit-btn {
-	background: #6176FE;
+	background: #D19C97;
 	height: 42px;
 	display: flex;
 	gap: 10px;
@@ -3717,7 +3717,7 @@ Version:	1.0.0
 	background-color: #FAFAFA;
 }
 .sherah__item-input:hover {
-	border-color: #6176FE;
+	border-color: #D19C97;
 }
 .sherah__item-input.sherah__item-input__arrow {
 	padding-right: 105px !important;
@@ -3878,7 +3878,7 @@ Version:	1.0.0
 	margin-top: 45px;
 }
 .sherah-chatbox__outgoing .sherah-chatbox__incoming-chat {
-	background: #6176FE;
+	background: #D19C97;
 	color: #fff;
 }
 .sherah-chatbox__outgoing .sherah-chatbox__time {
@@ -3912,7 +3912,7 @@ Version:	1.0.0
 	line-height: 40px;
 	text-align: center;
 	padding: 8px;
-	fill: #6176FE;
+	fill: #D19C97;
 }
 .sherah-chatbox__stared {
 	color: #FEC008;
@@ -3933,7 +3933,7 @@ Version:	1.0.0
 	gap: 12px;
 }
 .sherah-chatbox__time.sherah-chatbox__message{
-	color:#6176FE;
+	color:#D19C97;
 }
 .sherah-chatbox__stared.sherah-chatbox__stared--no {
 	color: #9AA2B1;
@@ -3979,8 +3979,8 @@ Version:	1.0.0
 }
 .sherah-email-menu li.sherah-email-menu__active a,.sherah-email-menu li:hover a,
 .sherah-email-menu li.sherah-email-menu__active svg,.sherah-email-menu li:hover svg{
-	color: #6176FE;
-	fill: #6176FE;
+	color: #D19C97;
+	fill: #D19C97;
 }
 .sherah-ebuttons {
 	display: flex;
@@ -4018,7 +4018,7 @@ Version:	1.0.0
 	border-top: 1px solid #E4F2FF;
 }
 .sherah-attachments__heading a {
-	color: #6176FE;
+	color: #D19C97;
 	font-weight: 400;
 }
 .sherah-attachments__heading {
@@ -4051,7 +4051,7 @@ Version:	1.0.0
 	justify-content: center;
 	align-items: center;
 	gap: 6px;
-	color: #6176FE;
+	color: #D19C97;
 	opacity: 0;
 	visibility: hidden;
 }
@@ -4165,7 +4165,7 @@ Version:	1.0.0
 	border-radius: 12px 12px 0px 0px;
 }
 .sherah-tinfo__heading {
-	background: #6176FE;
+	background: #D19C97;
 	padding: 20px 25px;
 	color: #fff;
 	border-radius: 12px 12px 0px 0px;
@@ -4677,7 +4677,7 @@ Version:	1.0.0
 }
 .sherah-progress__in{
 	background-color: #B2D8FF;
-	color: #6176FE;
+	color: #D19C97;
 }
 .sherah-progress__done {
 	background: #BAE5CD;
@@ -4897,7 +4897,7 @@ Version:	1.0.0
 .sherah__item-switch--slide::after {
 	left: initial;
 	right: 6px;
-	content: "off";
+	content: "Tắt";
 	color: #fff;
 	background: transparent;
 	top: 0;
@@ -4925,7 +4925,7 @@ Version:	1.0.0
 }
   .sherah__item-switch input:checked + .sherah__item-switch--slide::after {
 	transform: translateX(-22px);
-	content: "on";
+	content: "Bật";
 }
   
   /* Rounded sliders */
@@ -5018,7 +5018,7 @@ Version:	1.0.0
 	  fill: #fff;
 	}
 	.sherah-grid-list a:hover {
-	  background: #6176FE;
+	  background: #D19C97;
 	}
 	
   .sherah-header__form--v2 .search-btn {
@@ -5046,13 +5046,13 @@ Version:	1.0.0
 	  gap: 5px;
   }
   .sherah-userprofile__info-text {
-	  color: #6176FE;
+	  color: #D19C97;
 	  font-size: 14px;
 	  line-height: 20px;
 	  padding-right: 30px;
   }
   .sherah-userprofile__info-text a {
-	  color: #6176FE;
+	  color: #D19C97;
 	  font-weight: 400;
   }
   .sherah-userprofile__right {
@@ -5098,10 +5098,10 @@ Version:	1.0.0
 	  justify-content: center;
   }
   .sherah-btn.sherah-btn__share svg{
-	  fill:#6176FE;
+	  fill:#D19C97;
   }
   .sherah-btn.sherah-btn__share:hover {
-	  background: #6176FE;
+	  background: #D19C97;
   }
   .sherah-btn.sherah-btn__share:hover svg{
 	  fill: #fff;
@@ -5291,11 +5291,11 @@ Version:	1.0.0
 }
   .sherah-psidebar a:hover, .sherah-psidebar a.active {
 	  background: transparent;
-	  color:#6176FE;
-	  border-color:#6176FE !important;
+	  color:#D19C97;
+	  border-color:#D19C97 !important;
   }
   .sherah-psidebar a:hover svg, .sherah-psidebar a.active svg{
-	fill: #6176FE;
+	fill: #D19C97;
 }
 .sherah-psidebar {
 	padding: 25px;
@@ -5476,7 +5476,7 @@ Version:	1.0.0
 	justify-content: center;
 	align-items: center;
 	border: 6px solid var(--sherah-primary-offset-color);
-	background: #6176FE !important;
+	background: #D19C97 !important;
 }
   .sherah-paymentm__icon img {
 	max-width: 50px;
@@ -5600,8 +5600,8 @@ Version:	1.0.0
 	  border-radius:none !important;
   }
   .sherah-newtrans__menu .list-group-item.active, .sherah-newtrans__menu .list-group-item:hover {
-	  color: #6176FE;
-	  border-bottom-color: #6176FE !important;
+	  color: #D19C97;
+	  border-bottom-color: #D19C97 !important;
   }
   .sherah-newtrans__title {
 	  margin: 0;
@@ -5616,7 +5616,7 @@ Version:	1.0.0
 	margin-bottom: 15px;
   }
   .sherah-newtrans__single:hover {
-	  border-bottom-color: #6176FE;
+	  border-bottom-color: #D19C97;
   }
   .sherah-newtrans__single:last-child{
 	  margin:0;
@@ -5653,7 +5653,7 @@ Version:	1.0.0
 	  color: #EB5757;
   }
   .view-wallet__btn.top-sell a {
-	  color: #6176FE;
+	  color: #D19C97;
 	  font-size: ;
   }
   .sherah-dropdown-card__wallet-box {
@@ -5924,7 +5924,7 @@ Version:	1.0.0
 }
 
 .sherah-sellbox__earning .sherah-sellbox__heading-title {
-background: #6176FE;
+background: #D19C97;
 }
 
 
@@ -6261,7 +6261,7 @@ blockquote {
 	cursor: pointer;
 }
 .sherah-ptabs__sedit:hover{
-	background:#6176FE;
+	background:#D19C97;
 	color:#fff;
 }
 .sherah-ptabs__stitle {
@@ -6344,7 +6344,7 @@ blockquote {
 	visibility: hidden;
 }
 .sherah-btn.sherah-btn__bordered.sherah-btn__followed::after {
-	background: linear-gradient(134.38deg, #6176FE 0%, #C342F9 43.55%, #6176FE 104.51%);
+	background: linear-gradient(134.38deg, #D19C97 0%, #C342F9 43.55%, #D19C97 104.51%);
 	opacity: 0.17;
 	border-radius: 61px !important;
 }
@@ -6516,10 +6516,10 @@ blockquote {
 }
 .sherah-wc__form-main .form-group input:hover,
 .sherah-wc__form-main .form-group textarea:hover {
-	border-color: #6176FE;
+	border-color: #D19C97;
 }
 .sherah-wc__form-main .form-group:hover .sherah-wc__icon {
-	color: #6176FE;
+	color: #D19C97;
 }
 .sherah-wc__form-main .form-group__input {
 	position: relative;
@@ -6570,7 +6570,7 @@ blockquote {
 	color: #fff;
 	border: none;
 	font-size: 18px;
-	background: #6176FE;
+	background: #D19C97;
 	border-radius: 4px;
 	font-weight: 500;
 	min-height: 55px;
@@ -6589,15 +6589,15 @@ blockquote {
 }
 .sherah-wc__button .ntfmax-wc__btn:hover, 
 .sherah-wc__button .ntfmax-wc__btn.ntfmax-wc__btn-social:hover {
-	background: #6176FE;
+	background: #D19C97;
 	color: #fff;
 }
 .sherah-wc__bottom a {
-	color: #6176FE;
+	color: #D19C97;
 	font-weight: 700;
 }
 .sherah-wc__bottom a:hover {
-	color: #6176FE;
+	color: #D19C97;
 }
 .sherah-wc__button img {
 	max-width: 18px;
@@ -6615,7 +6615,7 @@ blockquote {
 	line-height: 24px;
 	border-radius: 100%;
 	transition: all 0.3s ease;
-	color: #6176FE;
+	color: #D19C97;
 }
 .sherah-wc__button .ntfmax-wc__btn:hover .ntfmax-wc__btn-icon{
 	color:#fff;
@@ -6879,7 +6879,7 @@ blockquote {
 }
 .sherah-main-form__button button {
     height: 50px;
-    background: #6176FE;
+    background: #D19C97;
     border: none;
     color: #fff;
     display: flex;
@@ -6894,7 +6894,7 @@ blockquote {
     display: none;
 }
 .sherah-main-form__single svg {
-    fill: #6176FE;
+    fill: #D19C97;
 }
 .sherah-main-form__single .sherah-main-form__icon {
     width: 52px;
@@ -6908,7 +6908,7 @@ blockquote {
     transition: all 0.3s ease;
 }
 .sherah-main-form__single .sherah-main-form__icon:hover{
-    background: #6176FE;
+    background: #D19C97;
 }
 .sherah-main-form__single .sherah-main-form__icon:hover svg{
     fill: #fff;
@@ -7349,7 +7349,7 @@ blockquote {
     border-radius: 4px;
 }
 .sherah-sidebarmenu__style--menus li:hover img{
-    border-color:#6176FE;
+    border-color:#D19C97;
 }
 .sherah-sidebarmenu__style--title {
     margin-bottom: 15px;
@@ -7402,7 +7402,7 @@ blockquote {
 }
 .sherah-sidebarmenu__switcher.active::before {
     left: 60%;
-    background: #6176FE;
+    background: #D19C97;
     transition: all 0.3s ease;
 }
 .sherah-audience {
@@ -7490,7 +7490,7 @@ blockquote {
     width: 204px;
     height: 204px;
     border-radius: 100%;
-    background: #6176FE;
+    background: #D19C97;
     color: #fff;
     display: flex;
     justify-content: center;
@@ -7574,7 +7574,7 @@ blockquote {
     content: "";
     width: 16px;
     height: 16px;
-    background: #6176FE;
+    background: #D19C97;
     display: inline-block;
     border-radius: 100%;
 }
@@ -7628,7 +7628,7 @@ blockquote {
     gap: 30px;
 }
 .sherah_countodwn-single {
-    border: 1px solid #6176FE;
+    border: 1px solid #D19C97;
     border-radius: 5px;
     padding: 15px 25px;
     display: flex;
@@ -7666,7 +7666,7 @@ blockquote {
 	padding-right: 5px;
 }
 .sherah-breadcrumb__list li.active a {
-	color: #6176FE;
+	color: #D19C97;
 }
 
 
@@ -7863,7 +7863,7 @@ blockquote {
 	content: "";
 	left: 0;
 	top: 8px;
-	background: #6176FE;
+	background: #D19C97;
 	position: absolute;
 	width: 6px;
 	height: 6px;
@@ -7871,7 +7871,7 @@ blockquote {
 	border-radius: 100%;
   }
   .sherah-basic-page ul li:after{
-	border: 1px solid #6176FE;
+	border: 1px solid #D19C97;
 	padding:5px;
 	width:12px;
 	left: -5px;
@@ -7929,7 +7929,7 @@ blockquote {
 	align-items: center;
 	gap: 8px;
 	font-size: 14px;
-	color: #6176FE;
+	color: #D19C97;
 }
   .sherah-upcard__info {
 	margin-bottom: 15px;
@@ -7955,7 +7955,7 @@ blockquote {
 .sherah-upcard__list--label {
 	background: #E7F3FF;
 	padding: 8px 12px;
-	color: #6176FE !important;
+	color: #D19C97 !important;
 }
 .sherah-upcard__list li {
 	display: flex;

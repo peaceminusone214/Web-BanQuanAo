@@ -10,8 +10,8 @@
 }
 /* Custom Variable CSS */
 :root {
-    --sherah-primary-color: #6176FE;
-    --sherah-primary-offset-color:#BFB5FF;
+    --sherah-primary-color: #D19C97;
+    --sherah-primary-offset-color:#eac18d;
     --sherah-secondary-color: #09AD95 ;
     --sherah-third-color: #FF6767 ;
     --sherah-fourth-color: #F9C200 ;
@@ -88,7 +88,7 @@ p {
 	font-size: 16px;
 }
 a {
-	color: #6176FE;
+	color: #D19C97;
 }
 a,button{
 	font-weight:700;
@@ -166,16 +166,16 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
 
 
 .sherah-color1{
-    color:#6176FE !important;
+    color:#D19C97 !important;
 }
 .sherah-color1__fill{
-    fill: #6176FE !important;
+    fill: #D19C97 !important;
 }
 .sherah-color1__bg{
-    background:#6176FE !important;
+    background:#D19C97 !important;
 }
 .sherah-color1__bg--offset{
-    background:  #BFB5FF;
+    background:  #eac18d;
 }
 .sherah-color1__bg--opactity{
     background-color: #E9ECFF;
@@ -247,7 +247,7 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
 	border: none;
 	font-size: 14px;
 	position: relative;
-	background: #6176FE;
+	background: #D19C97;
 	font-size: 18px;
 	color: #fff;
 	align-items: center;
@@ -263,7 +263,7 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
     fill: #fff;
 }
 .sherah-btn__white svg{
-    fill: #6176FE !important;
+    fill: #D19C97 !important;
 }
 .sherah-btn:hover,.sherah-btn:active,.sherah-btn:hover {
 	color: #fff;
@@ -275,12 +275,12 @@ textarea::-ms-input-placeholder,input::-ms-input-placeholder {
 	background: transparent;
 }
 .sherah-btn.default:hover{
-	background: #6176FE;;
+	background: #D19C97;;
     color:#fff;
 
 }
 .sherah-btn.sherah-btn__primary {
-	background: #6176FE;
+	background: #D19C97;
 }
 .sherah-btn.sherah-btn__secondary{
     background-color:  var(--sherah-secondary-color) ;
@@ -1097,7 +1097,7 @@ object {
 	color: #E5E8FE;
 }
 .slick-arrow:hover{
-    color:#6176FE;
+    color:#D19C97;
 }
 .Prev.slick-arrow {
 	right: 25px;
@@ -1120,7 +1120,7 @@ object {
 	box-shadow: none;
 }
 .sherah-btn.trs-white.bl-color:hover {
-	color: #6176FE;
+	color: #D19C97;
 }
 .sherah-btn.sherah-btn__nostyle {
 	background: transparent;
